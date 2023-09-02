@@ -1,0 +1,32 @@
+{
+  "name": "taskmanagerfrontend-master",
+  "version": "1.0.0",
+  "description": "1. It has future like login sign up  2. Assign task  3. List all task those are assigned to you  4. admin can see all task  5. like or dislike ( backend is done ) from UI I need to be done  ### Under construction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "react-router-dom": "^6.15.0",
+    "react-scripts": "^5.0.1",
+    "reactjs-localstorage": "^1.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
